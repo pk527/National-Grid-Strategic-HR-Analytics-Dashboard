@@ -8,7 +8,9 @@ The **National Grid Strategic & HR Analytics Dashboard** is an interactive Power
 
 ## 🖼️ Dashboard Snapshot
 
-<img width="1280" alt="Screenshot 2025-07-21 001023" src="https://github.com/user-attachments/assets/a0fe062f-4e73-4f45-833f-a92574f02d26">
+
+<img width="1757" height="991" alt="Screenshot 2025-07-21 001023" src="https://github.com/user-attachments/assets/407c617c-3ed4-4a95-a441-252967396acb" />
+
 
 ---
 
